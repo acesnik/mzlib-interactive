@@ -1,5 +1,7 @@
 # Using mzLib in an interactive notebook on macOS
 
+Here's the example: https://github.com/acesnik/mzlib-interactive/blob/main/notebooks/mzlib.ipynb.
+
 ## Steps to get it set up
 1. Install the extension .NET Extension Package
 2. Open a Jupyter notebook (mzlib.ipynb)
